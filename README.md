@@ -25,6 +25,4 @@
 
 
 
-
-![Figura-1-Scheme-of-the-Furuta-pendulum-under-study-The-angle-th-0-represents-the-angular_Q640](https://user-images.githubusercontent.com/87236474/143079533-9515005f-9e72-4240-b333-3579fcab5a95.jpg)
-
+![images](https://user-images.githubusercontent.com/87236474/143079795-cfd5c177-1b96-424c-99f9-d3432b872314.jpg)
