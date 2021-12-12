@@ -1,4 +1,4 @@
-# Robotics
+# Robotics - Using matlab 
 
 
 #1. Matlab code for forward kinematics and inverse kinematics of a 3 DOF planar robot
