@@ -31,3 +31,9 @@
 
 
 #3. Matlab code for simulink dynamics of 1dof and 2dof robot (pendulum)
+
+1. pendulum 1DOF
+![pendulum1](https://user-images.githubusercontent.com/87236474/145700375-af0f5732-aa47-4c48-ac8a-11795405f080.jpg)
+
+2. pendulum 2DOF
+![pendulum2](https://user-images.githubusercontent.com/87236474/145700399-1938b403-b3f8-4b9a-9928-175baf756926.png)
