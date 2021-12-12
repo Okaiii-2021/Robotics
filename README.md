@@ -26,3 +26,8 @@
 
 
 ![images](https://user-images.githubusercontent.com/87236474/143079795-cfd5c177-1b96-424c-99f9-d3432b872314.jpg)
+
+
+
+
+#3. Matlab code for simulink dynamics of 1dof and 2dof robot (pendulum)
